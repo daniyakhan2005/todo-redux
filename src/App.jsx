@@ -19,7 +19,7 @@ const App = () => {
         <input
           ref={newTodoRef}
           placeholder="Add a new todo"
-          className="flex-grow p-2 border rounded-md focus:outline-none focus:ring focus:ring-blue-300"
+          className="flex-grow p-2 border rounded-md focus:outline-none focus:ring focus:ring-blue-400"
         />
         <button
           onClick={() => {
